@@ -1,0 +1,59 @@
+# Node.js & React (Dependențe)
+node_modules/
+**/node_modules/
+
+# Fișiere de configurare locală / Secrete (Parole, Chei API, JWT, Conexiuni DB)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+**/.env
+**/.env.*
+
+# Output-uri de build (Compilare/Producție)
+dist/
+build/
+out/
+**/dist/
+**/build/
+bin/
+obj/
+
+# Log-uri și fișiere de depanare
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# Sisteme de operare și fișiere temporare
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.tmp
+*.bak
+
+# Editoare și IDE (VS Code, WebStorm, Visual Studio)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.project
+.classpath
+.settings/
+
+# Arduino (Compilări temporare/fișiere binare local)
+arduino/TrackerSolar/build/
+arduino/TrackerSolar/libraries/
+
+# Opțional: Directorul temporar scratch (dacă conține scripturi personale de test)
+# scratch/
