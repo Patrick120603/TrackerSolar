@@ -6,7 +6,7 @@
 
 * **Candidat:** Flavius-Patrick HAMAT  
 * **Coordonator științific:** Conf.dr.ing. Cristian VASAR  
-* **Repository Git:**(https://gitlab.upt.ro/flavius.hamat/tracker-solar) 
+* **Repository Git:**(https://github.com/Patrick120603/TrackerSolar)
 
 ---
 
